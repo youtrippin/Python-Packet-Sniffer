@@ -21,13 +21,13 @@ So, in the implementation of the packet sniffer, we first have to unpack the Eth
 
 <img src="Other/ethernet_frame.png">
 __Protocol Numbers__
-1 		ICMP (Internet Control Messaging Protocol)
-4		IPv4 (IP version 4)
-41		TPv6 (IP version 6)
-6		TCP (Transmission Control Protocol)
-17		UDP (User Datagram Protocol)
-8 		EGP (<a href="https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol">Exterior gateway Protocol</a>)
-9		IGP (<a href="https://en.wikipedia.org/wiki/Interior_gateway_protocol">Interior Gateway Protocol</a>)
+1 		ICMP (Internet Control Messaging Protocol)<br/>
+4		IPv4 (IP version 4)<br/>
+41		TPv6 (IP version 6)<br/>
+6		TCP (Transmission Control Protocol)<br/>
+17		UDP (User Datagram Protocol)<br/>
+8 		EGP (<a href="https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol">Exterior gateway Protocol</a>)<br/>
+9		IGP (<a href="https://en.wikipedia.org/wiki/Interior_gateway_protocol">Interior Gateway Protocol</a>)<br/>
 
 
 ###Sockets
