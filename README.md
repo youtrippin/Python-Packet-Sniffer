@@ -8,7 +8,7 @@ Packet Sniffer.
 <br />
 It works by setting the __NIC (Network Interface Card) in Promiscuous Mode.__
 Promiscuos Mode is that mode in which the controller sends all traffic that ir receives to the CPU, instead of only those packets it is intended to receive.
-<br />
+<br /><br />
 _Other Modes: Monitor Mode_
 
 ###How Data Is Exchanged on the Internet
