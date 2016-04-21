@@ -10,6 +10,10 @@
 
 So, in the implementation of the packet sniffer, we first have to unpack the Ethernet frame.
 
+##Ethernet Frame
+
+<img src="ethernet-frame.png">
+
 
 
 
