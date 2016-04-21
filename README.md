@@ -21,7 +21,9 @@ So, in the implementation of the packet sniffer, we first have to unpack the Eth
 
 <img src="Other/ethernet_frame.png">
 
+###Sockets
 
+A socket is one end-point of a two-way communication link between programs on the network. Sockets are bound to a port number so that the TCP layer can identify the application the data is destined to. 
 
 
 
