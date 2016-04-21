@@ -20,14 +20,14 @@ _Other Modes: Monitor Mode_
 So, in the implementation of the packet sniffer, we first have to unpack the Ethernet frame.
 
 <img src="Other/ethernet_frame.png">
-__Protocol Numbers__
-1 		ICMP (Internet Control Messaging Protocol)<br/>
-4		IPv4 (IP version 4)<br/>
-41		TPv6 (IP version 6)<br/>
-6		TCP (Transmission Control Protocol)<br/>
-17		UDP (User Datagram Protocol)<br/>
-8 		EGP (<a href="https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol">Exterior gateway Protocol</a>)<br/>
-9		IGP (<a href="https://en.wikipedia.org/wiki/Interior_gateway_protocol">Interior Gateway Protocol</a>)<br/>
+__Protocol Numbers__<br/>
+1 		&nbsp;&nbsp;ICMP (Internet Control Messaging Protocol)<br/>
+4		&nbsp;&nbsp;IPv4 (IP version 4)<br/>
+41		&nbsp;&nbsp;IPv6 (IP version 6)<br/>
+6		&nbsp;&nbsp;TCP (Transmission Control Protocol)<br/>
+17		&nbsp;&nbsp;UDP (User Datagram Protocol)<br/>
+8 		&nbsp;&nbsp;EGP (<a href="https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol">Exterior gateway Protocol</a>)<br/>
+9		&nbsp;&nbsp;IGP (<a href="https://en.wikipedia.org/wiki/Interior_gateway_protocol">Interior Gateway Protocol</a>)<br/>
 
 
 ###Sockets
