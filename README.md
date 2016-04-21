@@ -22,8 +22,8 @@ So, in the implementation of the packet sniffer, we first have to unpack the Eth
 <img src="Other/ethernet_frame.png">
 __Protocol Numbers__<br/>
 1 		&nbsp;&nbsp;ICMP (Internet Control Messaging Protocol)<br/>
-4		&nbsp;&nbsp;IPv4 (IP version 4)<br/>
-41		&nbsp;&nbsp;IPv6 (IP version 6)<br/>
+4		&nbsp;&nbsp;IP-in-IP encapsulation (IP version 4)<br/>
+41		&nbsp;&nbsp;IPv6 encapsulation (IP version 6)<br/>
 6		&nbsp;&nbsp;TCP (Transmission Control Protocol)<br/>
 17		&nbsp;&nbsp;UDP (User Datagram Protocol)<br/>
 8 		&nbsp;&nbsp;EGP (<a href="https://en.wikipedia.org/wiki/Exterior_Gateway_Protocol">Exterior gateway Protocol</a>)<br/>
@@ -34,6 +34,9 @@ __Protocol Numbers__<br/>
 
 A socket is one end-point of a two-way communication link between programs on the network. Sockets are bound to a port number so that the TCP layer can identify the application the data is destined to. 
 
+###IP Header Packet Format
+
+<img src="Other/ip_header_diagram.png">
 
 
 
