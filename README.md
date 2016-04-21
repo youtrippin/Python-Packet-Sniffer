@@ -12,7 +12,7 @@ So, in the implementation of the packet sniffer, we first have to unpack the Eth
 
 ##Ethernet Frame
 
-<img src="ethernet-frame.png">
+<img src="Other/ethernet_frame.png">
 
 
 
