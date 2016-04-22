@@ -1,3 +1,10 @@
+##PyHound - A Packet Sniffer in Python
+
+_By:_
+_Pratik Kshirsagar_
+_Chinmay Terse_
+_Rahul Agarwal_
+
 ## To Do
 
 - Interpret HTTP data (tcp.dest_port will be 80)
@@ -44,7 +51,7 @@ A socket is one end-point of a two-way communication link between programs on th
 
 ###Use Case and DFD for PyHound
 
-<img src="Other/pyhound_usecase.png"><br />
+<img src="Other/pyhound_usecase.png"><br><br>
 <img src="Other/pyhound_dfd.png">
 
 ##Output Screens
