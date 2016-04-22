@@ -49,11 +49,11 @@ A socket is one end-point of a two-way communication link between programs on th
 
 ##Output Screens
 
-__TCP Segment in IPv4 Packet(Protocol = 6)__
-<img src="Other/pyhound_op1.png"><br>
-__UDP Segment in IPv4 Packet(Protocol = 17)__
-<img src="Other/pyhound_op2.png"><br>
-__ICMP Packet in IPv4 Packet(Protocol = 1)__
+__TCP Segment in IPv4 Packet(Protocol = 6)__<br>
+<img src="Other/pyhound_op1.png"><br><br>
+__UDP Segment in IPv4 Packet(Protocol = 17)__<br>
+<img src="Other/pyhound_op2.png"><br><br>
+__ICMP Packet in IPv4 Packet(Protocol = 1)__<br>
 <img src="Other/pyhound_op3.png"><br>
 
 ###Advantages and Limitations
