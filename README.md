@@ -1,7 +1,7 @@
 ##PyHound - A Packet Sniffer in Python
 
 _By:_
-_Pratik Kshirsagar, _ _Chinmay Terse_ _and_ _Rahul Agarwal_
+_Pratik Kshirsagar, Chinmay Terse_ _and_ _Rahul Agarwal_
 
 ## To Do
 
