@@ -58,13 +58,13 @@ _Advantages_
 
 _Limitations_
 
-1.	Does not store the packet information and data.
+1.	Does not store the packet information and data.<br />
 		The biggest problem with the developed system is that, the program doesn’t store the data, it just displays it and once the terminal is closed the information is gone.
 
-2.	Cannot run on windows.
+2.	Cannot run on windows.<br />
 		Another drawback is that, this program uses a socket function which is not available in windows version of python, but exclusive to linux/unix systems.
 
-3.	Only core functionality available.
+3.	Only core functionality available.<br />
 		Other supplementary and complimentary functionalities are missing.
 
 
