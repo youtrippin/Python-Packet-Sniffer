@@ -50,10 +50,10 @@ A socket is one end-point of a two-way communication link between programs on th
 ###Advantages and Limitations
 _Advantages_
 
-1.	Easy to understand
+1.	Easy to understand.<br />
 	The system is easily understandable because simple socket programming concepts have been used.
 
-2.	No extensive requirements
+2.	No extensive requirements.<br />
 	This system has no extensive requirements and can run on any unix/linux system which has a basic Python compiler and terminal.
 
 _Limitations_
