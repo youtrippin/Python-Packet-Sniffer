@@ -38,6 +38,9 @@ A socket is one end-point of a two-way communication link between programs on th
 
 <img src="Other/ip_header_diagram.png">
 
+###TCP/IP packet
+
+<img src="Other/tcp_ip_packet_diagram.png">
 
 
 
