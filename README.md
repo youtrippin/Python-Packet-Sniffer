@@ -42,6 +42,32 @@ A socket is one end-point of a two-way communication link between programs on th
 
 <img src="Other/tcp_ip_packet_diagram.jpg">
 
+###Use Case and DFD for PyHound
+
+<img src="Other/pyhound_usecase.png">
+<img src="Other/pyhound_dfd.png">
+
+###Advantages and Limitations
+_Advantages_
+
+1.	Easy to understand
+	The system is easily understandable because simple socket programming concepts have been used.
+
+2.	No extensive requirements
+	This system has no extensive requirements and can run on any unix/linux system which has a basic Python compiler and terminal.
+
+_Limitations_
+
+1.	Does not store the packet information and data
+	The biggest problem with the developed system is that, the program doesn’t store the data, it just displays it and once the terminal is closed the information is gone.
+
+2.	Cannot run on windows
+	Another drawback is that, this program uses a socket function which is not available in windows version of python, but exclusive to linux/unix systems.
+
+3.	Only core functionality available
+	Other supplementary and complimentary functionalities are missing.
+
+
 
 
 
