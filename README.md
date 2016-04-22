@@ -44,8 +44,17 @@ A socket is one end-point of a two-way communication link between programs on th
 
 ###Use Case and DFD for PyHound
 
-<img src="Other/pyhound_usecase.png">
+<img src="Other/pyhound_usecase.png"><br />
 <img src="Other/pyhound_dfd.png">
+
+##Output Screens
+
+__TCP Segment in IPv4 Packet(Protocol = 6)__
+<img src="Other/pyhound_op1.png"><br>
+__UDP Segment in IPv4 Packet(Protocol = 17)__
+<img src="Other/pyhound_op2.png"><br>
+__ICMP Packet in IPv4 Packet(Protocol = 1)__
+<img src="Other/pyhound_op3.png"><br>
 
 ###Advantages and Limitations
 _Advantages_
